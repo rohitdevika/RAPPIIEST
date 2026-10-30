@@ -3,9 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b18,100:00ff41&height=220&section=header&text=ROHITDEVIKA&fontSize=65&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=THE%20DIGITAL%20UNDERGROUND&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=600&color=00FF41&center=true&vCenter=true&width=650&lines=%5B+SYSTEM+INITIALIZING...+%5D;%3E+ACCESS+GRANTED+%3C;%3E+WELCOME+TO+ROHITDEVIKA+%3C;HACKER+%7C+CODER+%7C+DEVELOPER;THINK+DIFFERENT.+CODE+DIFFERENT." />
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=600&color=00FF41&center=true&vCenter=true&width=650&lines=SYSTEM+INITIALIZING...;ACCESS+GRANTED;WELCOME+TO+ROHITDEVIKA;HACKER+%7C+CODER+%7C+DEVELOPER;THINK+DIFFERENT.+CODE+DIFFERENT."/>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/MODE-CYBER-00ff41?style=for-the-badge&labelColor=000000"/>
@@ -27,10 +25,7 @@
 [+] ACCESS     : AUTHORIZED
 
 root@rohitdevika:~# ./welcome.sh
-
 WELCOME TO MY DIGITAL WORLD...
-INITIALIZING HACKER ENVIRONMENT...
-[####################] 100%
 SYSTEM READY ✔
 ```
 
@@ -42,7 +37,9 @@ class RohitDevika:
     def __init__(self):
         self.name = "ROHITDEVIKA"
         self.role = "Developer"
-        self.language = ["Python", "HTML", "CSS", "JavaScript"]
+        self.language = [
+            "Python", "HTML", "CSS", "JavaScript"
+        ]
         self.interests = [
             "Coding",
             "Automation",
@@ -58,11 +55,88 @@ me = RohitDevika()
 print(me.motto())
 ```
 
+---
+
+## 🚀 MY PROJECTS
+
+### 01. ROHIT PYTHON OBFUSCATOR
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT-RAPPIIEST-00ff41?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/LANGUAGE-PYTHON-00ff41?style=for-the-badge&labelColor=000000"/>
+
+</div>
+
+**RAPPIIEST** is my Python project repository.
+
+- 🐍 Python-based project
+- ⚡ Easy GitHub cloning
+- 💻 Android Termux support
+- 🔥 Source file: `OLDEST.py`
+
+<div align="center">
+
+<a href="https://github.com/rohitdevika/RAPPIIEST">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000"/>
+</a>
+
+<a href="https://github.com/rohitdevika/RAPPIIEST/archive/refs/heads/main.zip">
+<img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000"/>
+</a>
+
+</div>
+
+### 📥 INSTALLATION (ANDROID / TERMUX)
+
+**Step 1 — Install requirements**
+
+```bash
+pkg update -y && pkg upgrade -y
+pkg install python git -y
+```
+
+**Step 2 — Clone repository**
+
+```bash
+git clone https://github.com/rohitdevika/RAPPIIEST.git
+```
+
+**Step 3 — Open project folder**
+
+```bash
+cd RAPPIIEST
+```
+
+**Step 4 — Run Python file**
+
+```bash
+python OLDEST.py
+```
+
+### 💻 INSTALLATION (WINDOWS / LINUX)
+
+```bash
+git clone https://github.com/rohitdevika/RAPPIIEST.git
+
+cd RAPPIIEST
+
+python OLDEST.py
+```
+
+**Requirements:**
+- Python 3
+- Git
+
+> ⚠️ Run downloaded code only after reviewing it. The repository currently contains an obfuscated Python file, and its exact Python version compatibility and execution requirements have not been verified.
+
+---
+
 ## 💻 TECH ARSENAL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,linux,bash,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,linux,bash,vscode&theme=dark"/>
 
 </div>
 
@@ -80,13 +154,17 @@ print(me.motto())
 
 </div>
 
+---
+
 ## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rohitdevika/rohitdevika/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/rohitdevika/rohitdevika/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
+
+---
 
 ## 🌐 CONNECT WITH ME
 
